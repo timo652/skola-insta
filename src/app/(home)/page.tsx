@@ -7,7 +7,7 @@ export const metadata = {title: "Domovka stranka | skola-insta"};
 export default function Home() {
   return (
 
-     <Typography>Domovská stránka</Typography>
+     <Typography>Domovská stránka/dis is maj haus</Typography>
     
   );
 }
